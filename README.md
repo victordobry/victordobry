@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My LinkedIn: [victordobry](https://www.linkedin.com/in/victordobry/)
 <!--
 **victordobry/victordobry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
